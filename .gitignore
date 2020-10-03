@@ -1,0 +1,16 @@
+### Ignores
+
+.idea
+*.iml
+target/
+out/
+in/raw/out/
+in/**/*.crc
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
